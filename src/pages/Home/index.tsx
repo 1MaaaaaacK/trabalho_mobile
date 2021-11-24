@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Header, Title, SubTitle, Image, Button, ButtonIcon } from './styles'
+import { Container, Header, Title, SubTitle, Image, Button } from './styles'
 import wateringImg from '../../assets/watering.png';
 import { Feather } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';

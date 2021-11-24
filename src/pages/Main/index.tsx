@@ -2,8 +2,7 @@ import React from 'react';
 
 import { Header } from '../../components/Header';
 
-import { Container, HeaderStyle, SubTitle, Title, ButtonsText, Buttons } from './styles';
-import { Button } from '../../components/Button';
+import { Container, HeaderStyle, SubTitle, Title } from './styles';
 import { useRoute } from '@react-navigation/native';
 
 interface RouteParams {

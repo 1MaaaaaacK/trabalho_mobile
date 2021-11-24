@@ -23,11 +23,3 @@ export const Container = styled.View`
     color: ${({ theme }) => theme.colors.heading};
     padding: 0px 20px 0px 20px;
 `
-export const ButtonsText = styled.Text`
-
-padding: 0px 20px 0px 20px;
-`
-export const Buttons = styled.View`
-
-width: 90px;
-`

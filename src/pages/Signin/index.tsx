@@ -3,7 +3,6 @@ import { useNavigation } from '@react-navigation/native';
 import { Alert, Keyboard, KeyboardAvoidingView, TouchableWithoutFeedback } from 'react-native';
 import { Container, Title, Content, Form, Header, Emoji, Input, Footer, ButtonText } from './styles';
 import { Button } from '../../components/Button';
-//import { useAuth } from '../../hooks/useAuth';
 
 export function Signin() {
     const navigation = useNavigation();
